@@ -31,7 +31,6 @@
 
 \maketitle
 
-\section{Cite papers}
 With 
 \href{https://retorque.re/zotero-better-bibtex/}{Better BibTeX}
 and 
@@ -39,17 +38,17 @@ and
 
 For example, I could cite these entries about the tears of wine \cite{DuklerEtAl_20, PhysicsGirl_19}. The first is a journal article and the second is a video. If one wants to share this paper with collaborator via email say, then it would be convenient to be able to obtain a formatted citation quickly. And this is possible as well:\vspace*{2mm}\\
 \;\hspace*{1cm}
-\begin{minipage}{.9\textwidth}
+\begin{minipage}{.85\textwidth}
     Dukler, Y., Ji, H., Falcon, C., Bertozzi, A.L., 2020. Theory for undercompressive shocks in tears of wine. Physical Review Fluids 5, 34002. https://doi.org/10.1103/PhysRevFluids.5.034002
 \end{minipage}
 
 Our ``pipeline'' preserves special characters. For example, the \"o in the title of this paper is printed in the References section correctly \cite{Vanneste_21}; as well as the accents in the author names of this paper \cite{Caspar-CohenEtAl_21}.
 
-Let's cite some things others than journal articles. This is conference paper \cite{Diamantakis_14}, this is a book chapter \cite{GulaEtAl_22a}, and this is a patent \cite{TERANEtAl_18}. Here we cite the thesis and a presentation by the same author \cite{Shakespeare_15,Shakespeare_21}. The citation for the presentation could be better. This is likely because presentation is categorized as \verb|@misc| in the \texttt{.bib} file. 
+Let's cite some things others than journal articles. This is conference paper \cite{Diamantakis_14}, this is a book chapter \cite{Buhler_14b} from the book \cite{Buhler_14}, and this is a patent \cite{TERANEtAl_18}. Here we cite the thesis and a presentation by the same author \cite{Shakespeare_15,Shakespeare_21}. The citation for the presentation could be better. This is likely because presentation is categorized as \verb|@misc| in the \texttt{.bib} file. 
 
 Automation is great, but we should still be careful about the details. For example, this data is not cited well \cite{cisl_rda_ds633.3}. The recommended citation for this data product is:\vspace*{2mm}\\
 \;\hspace*{1cm}
-\begin{minipage}{.9\textwidth}%
+\begin{minipage}{.85\textwidth}%
 European Centre for Medium-Range Weather Forecasts (2019): ERA5 Reanalysis (0.25 Degree Latitude-Longitude Grid). Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory. Dataset. https://doi.org/10.5065/BH6N-5N20. Accessed† dd mmm yyyy.
 \end{minipage}%
 
