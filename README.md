@@ -1,3 +1,4 @@
+
 # Zotero Tutorial
 
 This is a tutorial for the paper organizing software [Zotero](https://www.zotero.org/). [Here](https://github.com/Empyreal092/Zotero_Tutorial/blob/main/Presentation.pdf) is the slide, and [here](https://github.com/Empyreal092/Zotero_Tutorial/blob/main/latex/Zotero_Tutorial_LaTeX.pdf) is the accompanying LaTeX example.
@@ -9,7 +10,11 @@ In short, I will cover the "pipeline" of import-organize-cite papers. I will mak
 ## Acknowledgement
 This slide was made in Spring 2022 for the "How-To Day" talk at [Modeling & Simulation Group (MSG) Meeting](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/activities/group-meeting/?semester_code=spring-2022), Courant Institute, NYU. I thank the organizer for the opportunity.
 
-I make this repository public and plan to keep it updated, hoping that it could be a useful resource for all interested.
+I make this repository public and plan to keep it updated, hoping that it could be a useful resource for all interested. I have since given this tutorial at
+
+ - "How-To Day" talk at [Modeling & Simulation Group (MSG) Meeting](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/activities/group-meeting/?semester_code=spring-2022), Courant Institute, NYU
+ - "Monday Lunch" for Ph.D. students in the [CAOS](https://caos.cims.nyu.edu/dynamic/) group, NYU
+ - Group meeting for undergraduate research students for the [AM-SURE program](https://math.nyu.edu/dynamic/research/pages/research-and-training-group-mathematical-modeling-and-simulation/activities/amsure/), NYU
 
 For comments on this tutorial, reach me at [ryan_sjdu@nyu.edu](ryan_sjdu@nyu.edu).
 
